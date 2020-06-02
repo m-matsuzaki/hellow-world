@@ -1,2 +1,2 @@
 # hellow-world
-my first try
+my first try by tutrial
